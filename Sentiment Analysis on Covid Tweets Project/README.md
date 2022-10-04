@@ -39,6 +39,7 @@ the Task that I have worked is: classifying the sentiments of Arabic tweets as p
 # D. Modelling and Hyperparameters Optimization:
 
 [4-1] Train Baseline LogisticRegression model with BOW
+
 [4-2] Train LogisticRegression model with Tfidf
 
 [4-3] Train Ridge Classifier model Ridge with BOW
