@@ -1,4 +1,4 @@
-the Task that I have worked is: classifying the sentiments of Arabic tweets as positive / negative or neutral.
+The Task that I have worked with is: classifying the sentiments of Arabic tweets as positive / negative or neutral.
 
 # A. Data Collection
 
