@@ -1,11 +1,13 @@
 # Sentimental Analysis for Tweets
 
+The Objective of this project:
+Sentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.
+
 ![image](https://user-images.githubusercontent.com/42867555/210127182-da7309e8-0c89-49e2-8f1d-867781fa1dee.png)
 
 ![image](https://user-images.githubusercontent.com/42867555/210127236-7986dce4-9c8a-4faf-9986-68b178d571d1.png)
 
-# Objective of this project 
-Sentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.
+
 
 # Description
 The project utilizes a dataset of Sentimental Analysis for Tweets competition which can be found at Kaggle [here](https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets).
