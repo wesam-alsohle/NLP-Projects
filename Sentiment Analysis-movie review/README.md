@@ -35,5 +35,12 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 
 ![image](https://user-images.githubusercontent.com/42867555/210126409-41d22bc3-b484-4aa2-945e-385fa412265c.png)
 
+- Random Forest Classifier
+
+![image](https://user-images.githubusercontent.com/42867555/210126431-9a0b5a92-7650-437d-b4ab-220380344835.png)
+
+- 
+
+
 
 
