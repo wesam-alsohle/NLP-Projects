@@ -47,6 +47,10 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 - ![image](https://user-images.githubusercontent.com/42867555/210126516-2fdec3da-bd73-4fe8-ae46-ee726070cd72.png)
 
 
+- BERT (Bidirectional Encoder Representations from Transformers)
+
+![image](https://user-images.githubusercontent.com/42867555/210126534-9b67f777-2400-4c6b-b226-55bb23414cba.png)
+
 
 
 
