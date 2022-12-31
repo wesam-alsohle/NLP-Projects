@@ -42,7 +42,11 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 
 - XGBoost
 
-- ![image](https://user-images.githubusercontent.com/42867555/210126472-170d408d-4a56-4f53-bf27-d44c8e77a045.png)
+- ![image](https://user-images.githubusercontent.com/42867555/210126504-1ff2b801-cdcf-49da-a1cd-dbab23f4d829.png)
+
+- ![image](https://user-images.githubusercontent.com/42867555/210126516-2fdec3da-bd73-4fe8-ae46-ee726070cd72.png)
+
+
 
 
 
