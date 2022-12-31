@@ -15,4 +15,5 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 ![5](images/5.png)
 
 # Explore Data Analysis
-![3](images/3.png) ![4](images/4.png)
+![3](images/3.png) 
+                  ![4](images/4.png)
