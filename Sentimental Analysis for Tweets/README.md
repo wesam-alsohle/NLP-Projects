@@ -21,3 +21,11 @@ The dataset contains a total of 10,314 Sentiment with a significant class imbala
 # Explore Data Analysis
 
 ![image](https://user-images.githubusercontent.com/42867555/210128057-9db35e40-b3aa-4e68-bce1-6adb07580bbf.png)
+
+# Steps of Pre-processing
+- removing stopwords & punctuation
+- removing emoji & emoticons
+- removing mintions
+- removing html & urls
+- removing digits
+- removing single char & white spaces
