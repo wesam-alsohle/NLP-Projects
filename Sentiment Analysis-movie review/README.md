@@ -17,3 +17,13 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 # Explore Data Analysis
 ![3](images/3.png) 
                   ![4](images/4.png)
+                  
+# Steps of Pre-processing
+*removing stopwords & punctuation
+*removing emoji & emoticons
+*removing mintions
+*removing html & urls
+*removing digits
+*removing single char & white spaces
+
+# Models for Texts Classification
