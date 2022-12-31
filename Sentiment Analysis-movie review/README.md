@@ -4,7 +4,8 @@
 
 Objective of this project is to create an binary classification model that can predict Movie Reviews that belong to one of the two classes: positive, negative with a reasonably high accuracy using Machine Learning algorithms and Deep learning model models.
 
-![00](images/00.PNG)
+![image](https://user-images.githubusercontent.com/42867555/210126555-6fc6ca1a-ec6e-4fbb-8d04-a2b76e8bfb51.png)
+
 
 # Description
 The project utilizes a dataset of Movie Reviews which can be found at Kaggle [here](https://www.kaggle.com/competitions/shai-training-2022-a-level-2/data).
