@@ -49,7 +49,7 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 
 ![image](https://user-images.githubusercontent.com/42867555/210126516-2fdec3da-bd73-4fe8-ae46-ee726070cd72.png)
 
--Logistic Regression Classifier
+- Logistic Regression Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210128177-85674fec-1870-46dc-9928-0addcf986dcf.png)
 
