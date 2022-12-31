@@ -33,6 +33,7 @@ The dataset contains a total of 10,314 Sentiment with a significant class imbala
 # Models for Texts Classification
 
 - Naive bayes Classifier
+
 ![image](https://user-images.githubusercontent.com/42867555/210128498-16ff65d7-459e-4945-bb1e-16f38180f183.png)
 
 ![image](https://user-images.githubusercontent.com/42867555/210128499-ba00ecf8-f8f0-45c0-9476-64a0fb182244.png)
