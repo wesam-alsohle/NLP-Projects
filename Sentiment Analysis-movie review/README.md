@@ -30,11 +30,11 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 - removing single char & white spaces
 
 # Models for Texts Classification
-- Naive bayes
+- Naive bayes Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210128429-d88a3311-025b-476e-b156-5eeb271b2d2d.png)
 
-- SGD
+- SGD Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210126409-41d22bc3-b484-4aa2-945e-385fa412265c.png)
 
@@ -43,13 +43,13 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 ![image](https://user-images.githubusercontent.com/42867555/210126457-4878f0f7-2126-4048-915c-c918ad6af866.png)
 
 
-- XGBoost
+- XGBoost Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210126504-1ff2b801-cdcf-49da-a1cd-dbab23f4d829.png)
 
 ![image](https://user-images.githubusercontent.com/42867555/210126516-2fdec3da-bd73-4fe8-ae46-ee726070cd72.png)
 
--Logistic Regression
+-Logistic Regression Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210128177-85674fec-1870-46dc-9928-0addcf986dcf.png)
 
