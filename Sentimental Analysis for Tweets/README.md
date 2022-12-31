@@ -29,3 +29,31 @@ The dataset contains a total of 10,314 Sentiment with a significant class imbala
 - removing html & urls
 - removing digits
 - removing single char & white spaces
+
+# Models for Texts Classification
+
+- Naive bayes Classifier
+![image](https://user-images.githubusercontent.com/42867555/210128498-16ff65d7-459e-4945-bb1e-16f38180f183.png)
+
+![image](https://user-images.githubusercontent.com/42867555/210128499-ba00ecf8-f8f0-45c0-9476-64a0fb182244.png)
+
+
+- SGD Classifier
+
+![image](https://user-images.githubusercontent.com/42867555/210128509-e99ede2a-0399-4907-8f60-1c64a9a619a6.png)
+
+![image](https://user-images.githubusercontent.com/42867555/210128614-cd3913f8-d858-438e-8d19-531be97e9e1e.png)
+
+
+- SVC Classifier
+
+![image](https://user-images.githubusercontent.com/42867555/210128615-eb80dd48-bce4-42b2-95b9-ee0dd4a4efe7.png)
+
+![image](https://user-images.githubusercontent.com/42867555/210128620-f686dc1b-f2cd-439f-acc8-31897052efee.png)
+
+
+-Logistic Regression Classifier
+
+![image](https://user-images.githubusercontent.com/42867555/210128662-a2344a36-0a2d-42c9-9727-1f2c3987e46c.png)
+
+![image](https://user-images.githubusercontent.com/42867555/210128674-a21ebee2-1b8c-48e1-a22d-c77f87129e4c.png)
