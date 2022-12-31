@@ -53,12 +53,18 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 
 ![image](https://user-images.githubusercontent.com/42867555/210128177-85674fec-1870-46dc-9928-0addcf986dcf.png)
 
-![image](https://user-images.githubusercontent.com/42867555/210128181-b9638b76-7876-44b0-9ca1-5a4d4108b346.png)
+![image](https://user-images.githubusercontent.com/42867555/210128207-b5ff3155-5910-44d0-9741-d39afff8d78e.png)
+
+- Gated Recurrent Units (GRU) model
+
+![image](https://user-images.githubusercontent.com/42867555/210128244-bfc14141-f6ad-4380-8bf1-16d544ba3437.png)
 
 
 - BERT (Bidirectional Encoder Representations from Transformers)
 
 ![image](https://user-images.githubusercontent.com/42867555/210126534-9b67f777-2400-4c6b-b226-55bb23414cba.png)
+
+
 
 
 
