@@ -53,7 +53,7 @@ The dataset contains a total of 10,314 Sentiment with a significant class imbala
 ![image](https://user-images.githubusercontent.com/42867555/210128620-f686dc1b-f2cd-439f-acc8-31897052efee.png)
 
 
--Logistic Regression Classifier
+- Logistic Regression Classifier
 
 ![image](https://user-images.githubusercontent.com/42867555/210128662-a2344a36-0a2d-42c9-9727-1f2c3987e46c.png)
 
