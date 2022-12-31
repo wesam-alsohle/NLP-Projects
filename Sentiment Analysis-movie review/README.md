@@ -27,3 +27,7 @@ The dataset contains a total of 40000 Sentiment with a significant class balance
 - removing single char & white spaces
 
 # Models for Texts Classification
+- Naive bayes
+![image](https://user-images.githubusercontent.com/42867555/210126392-2ebdbdb3-b863-403a-be23-fe2477d4f277.png)
+
+
