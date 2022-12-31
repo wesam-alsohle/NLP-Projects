@@ -8,7 +8,9 @@ Objective of this project is to create an binary classification model that can p
 
 
 # Description
-The project utilizes a dataset of Movie Reviews which can be found at Kaggle [here](https://www.kaggle.com/competitions/shai-training-2022-a-level-2/data).
+The project utilizes a dataset of Movie Reviews competition which can be found at Kaggle [here](https://www.kaggle.com/competitions/shai-training-2022-a-level-2/data).
+ and we came in the fifth position.💪🏻💪🏻
+
 The dataset contains a total of 40000 Sentiment with a significant class balance.
 - 19908 'positive' reviews
 - 19815 'negative' reviews
