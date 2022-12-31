@@ -43,7 +43,7 @@ The dataset contains a total of 10,314 Sentiment with a significant class imbala
 
 ![image](https://user-images.githubusercontent.com/42867555/210128509-e99ede2a-0399-4907-8f60-1c64a9a619a6.png)
 
-![image](https://user-images.githubusercontent.com/42867555/210128614-cd3913f8-d858-438e-8d19-531be97e9e1e.png)
+![image](https://user-images.githubusercontent.com/42867555/210128827-c751c6ea-37f1-407b-b3e8-80ac83308b4d.png)
 
 
 - SVC Classifier
